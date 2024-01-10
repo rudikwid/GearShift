@@ -1,4 +1,6 @@
-# GearShift
+# Arduino GearShift Indicator for M/T car N-12345-R / H pattern
+
+Original version by Nicuflorica
 https://nicuflorica.blogspot.com/2017/05/indicator-treapta-de-viteza-gear-shift.html
 
 http://arduinotehniq.blogspot.com/2017/05/gear-shift-indicator.html
